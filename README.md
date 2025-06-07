@@ -1,4 +1,4 @@
-# VProChart: A Visual Program-Driven Chart Reasoning Agent
+# VProChart: Answering Chart Question through Visual Perception Alignment Agent and Programmatic Solution Reasoning
 
 [![ModelScope](https://img.shields.io/badge/ModelScope-VProChart-blue)](https://www.modelscope.cn/models/HUANGMUYE/VProChart-VPAgent)  [![arXiv](https://img.shields.io/badge/arXiv-2409.01667-red)](https://arxiv.org/abs/2409.01667)    [![AAAI-25](https://img.shields.io/badge/AAAI--25-Accepted-brightgreen)](https://ojs.aaai.org/index.php/AAAI/issue/view/627)
 
